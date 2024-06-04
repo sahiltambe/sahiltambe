@@ -1,18 +1,19 @@
 # Hi there, I'm Sahil Tambe 👋
- 
-## Connect with me:
-
-<p align = "center">
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sahil-tambe)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com)
-</p>
----
 
 ## Summary
 
-Experienced data scientist led data-driven pricing optimization at Siddhi Jewels, resulting in a 10% increase in revenue and spearheaded customer segmentation strategies that led to a 15% improvement in retention rates.
+Experienced data scientist with 4 years of expertise, specializing in data analysis, predictive modeling machine learning and Generative AI. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and Development/Project Tips) and contributing to open source.
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sahil-tambe)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com)
+
+</p>
 
 ---
 

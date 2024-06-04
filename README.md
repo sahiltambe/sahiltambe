@@ -1,9 +1,15 @@
 # Hi there, I'm Sahil Tambe 👋
  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/sahil-tambe) | [Portfolio](https://sahiltambe1996.github.io) | [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com)
+## Connect with me:
 
+<p align = "center">
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sahil-tambe)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com)
+</p>
 ---
-https://medium.com/@sahiltambe131813
+
 ## Summary
 
 Experienced data scientist led data-driven pricing optimization at Siddhi Jewels, resulting in a 10% increase in revenue and spearheaded customer segmentation strategies that led to a 15% improvement in retention rates.
@@ -40,6 +46,7 @@ Experienced data scientist led data-driven pricing optimization at Siddhi Jewels
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 
+---
 
 ## Research Interests
 
@@ -51,6 +58,8 @@ Experienced data scientist led data-driven pricing optimization at Siddhi Jewels
 - Agents
 - Generative Adversarial Networks (GANs)
 
+---
+
  **I am open to**:
 
 - Any collaboration work,
@@ -58,17 +67,7 @@ Experienced data scientist led data-driven pricing optimization at Siddhi Jewels
 - Research internships and
 - Available to become a member for Machine Learning/Data mining journals or conferences.
 
-## Connect with me:
-
-<p align = "center">
-
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sahil-tambe)
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-
-</p>
+---
 
 ## GitHub Stats:
 

@@ -8,8 +8,8 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" />](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sahil-tambe)
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahil-tambe)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
 [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com)
 
@@ -32,7 +32,7 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
@@ -49,8 +49,9 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 ---
 
-## Research Interests
+## Study, Development & Research Interests
 
+- Machine Learning, Deep Learning & NLP
 - Generative AI
 - Large Language Models (LLMs)
 - Conversational AI

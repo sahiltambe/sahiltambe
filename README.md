@@ -62,7 +62,7 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 ---
 
- **I am open to**:
+## **I am open to**:
 
 - Any collaboration work,
 - Machine learning projects(development or research),

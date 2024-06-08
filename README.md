@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Tambe 👋
 
-## Summary
+## Summary:
 
 Experienced data scientist with 4 years of expertise, specializing in data analysis, predictive modeling machine learning and Generative AI. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and Development/Project Tips) and contributing to open source.
 
@@ -23,7 +23,7 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-#### ML/DL
+#### ML/DL:
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
@@ -34,14 +34,14 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Tools and Technologies:
 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-running-success)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
 
-#### IDEs
+#### IDEs:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
@@ -49,7 +49,7 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 ---
 
-## Study, Development & Research Interests
+## Study, Development & Research Interests:
 
 - Machine Learning, Deep Learning & NLP
 - Generative AI

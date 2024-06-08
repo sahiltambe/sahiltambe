@@ -8,7 +8,7 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://sahiltambe.github.io/sahiltambe.portfolio.in/)
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />]("(https://sahiltambe.github.io/sahiltambe.portfolio.in/)", unsafe_allow_html=True)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-tambe)
 

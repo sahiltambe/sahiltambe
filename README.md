@@ -8,7 +8,9 @@ Experienced data scientist with 4 years of expertise, specializing in data analy
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://sahiltambe.github.io/sahiltambe.portfolio.in/){:target="_blank"}
+[<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />]<a href="https://sahiltambe.github.io/sahiltambe.portfolio.in" target="_blank">
+
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahil-tambe){:target="_blank"}
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent){:target="_blank"}
 [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=sahiltambe1996@gmail.com){:target="_blank"}
